@@ -8,7 +8,7 @@ else:
     print("Verificar o bulbo")
     bulbo = input("O bulbo queimou? S ou N: ")
 
-    if bulbo == "S":  # Alterei para "S" porque no input foi perguntado "S ou N"
+    if bulbo == "S":  
         print("Trocar o Bulbo")
     else:
         print("Trocar a lâmpada")
